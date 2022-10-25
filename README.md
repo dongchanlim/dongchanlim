@@ -32,3 +32,14 @@ Data Engineering
 - Spark
 - Airflow
 - Databricks
+
+Web Development
+- Shiny
+- Streamlit
+- JS
+- CSS
+
+Devops Tool
+- Notion
+- Jira
+- Monday.com
