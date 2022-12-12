@@ -19,42 +19,42 @@ I'm eager to explore the business with data proactively and dive deep into data-
 - 빅데이터 교육 제작 업체 [https://datarichard.oopy.io] 을 운영합니다. 
 - 클래스101에서 [데이터 추출 & 시각화 클래스]로 SQL 과 Power BI 를 가르칩니다.
 - 인스타로 배우는 빅데이터 페이지, [데이터 리차드]를 운영합니다.
-- 45일 후에 데이터 분석가로 당당하게 태어나는 [데분당태 45일 챌린지]를 운영합니다.
+- 63일 후에 데이터 분석가로 당당하게 태어나는 [데분당태 63일 챌린지]를 운영합니다.
 
 [skills]
 
-Data Programming Language
+데이터 프로그래밍 언어
 - Python
 - R
 - SQL
 - Excel
 
-Data Viz Tool
+데이터 시각화 도구
 - Power BI
 - Tableau
 - Quicksight
 
-Cloud Tool
+클라우드툴
 - AWS
 - Azure
 
-Engineering Tool
+인프라 도구
 - Docker
 - Git
 - Bash Shell
 
-Data Engineering
+데이터 엔지니어링
 - Spark
 - Airflow
 - Databricks
 
-Web Development
+웹 개발
 - Shiny
 - Streamlit
 - JS
 - CSS
 
-Devops Tool
+데브옵스 툴
 - Notion
 - Jira
 - Monday.com
