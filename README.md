@@ -11,9 +11,9 @@
 - 인스타로 배우는 빅데이터 페이지, [데이터 리차드](https://www.instagram.com/data_richard/)를 운영합니다.
 - 63일 후에 데이터 분석가로 당당하게 태어나는 [데분당태 63일 챌린지](https://datarichard.notion.site/DBDT-Challenge-05207df60cda465eac6cf478d3203231)를 운영합니다.
 
-[데이터 교육 서비스]
+# 데이터 교육 서비스
 
-### 데이터 취준생을 위한 7가지 이야기 
+### 데이터 취준생을 위한 7가지 조언 
 [자세히 보기](https://datarichard.notion.site/datarichard/e60cd96575df4f62af0c05456d3a42fb?v=7a2a90dddfef4ec19cd46cb33d0d573f)
 
 ### 데이터 포트폴리오 만들기
