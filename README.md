@@ -1,6 +1,6 @@
-## Richard Lim
+# 안녕하세요. Richard Lim입니다.
 
-안녕하세요. 데이터를 더욱 재미있고 가치있게 알려주는 크리에이터 [데이터 리차드]입니다.
+데이터를 더욱 재미있고 가치있게 알려주는 교육 크리에이터 [데이터 리차드]입니다.
 3년 간 다양한 데이터 직종을 경험하고 현재 데이터 교육 회사 [datarichard]를 운영하고 있습니다.
 
 [심리학과 출신]에서 [데이터 크리에이터]가 되기까지 노하우와 경험을 통해 
@@ -14,11 +14,11 @@
 [데이터 교육 서비스]
 
 ### 데이터 취준생을 위한 7가지 이야기 
-[자세히 보기] (https://datarichard.notion.site/datarichard/e60cd96575df4f62af0c05456d3a42fb?v=7a2a90dddfef4ec19cd46cb33d0d573f)
+[자세히 보기](https://datarichard.notion.site/datarichard/e60cd96575df4f62af0c05456d3a42fb?v=7a2a90dddfef4ec19cd46cb33d0d573f)
 
 ### 데이터 포트폴리오 만들기
-[자세히 보기] (https://pfdatarichard.carrd.co/)
+[자세히 보기](https://pfdatarichard.carrd.co/)
 
 ### 데분당태 챌린지
-[자세히 보기] (https://debundante.carrd.co/)
+[자세히 보기](https://debundante.carrd.co/)
 
