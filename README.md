@@ -3,7 +3,7 @@
 데이터를 더욱 재미있고 가치있게 알려주는 교육 크리에이터 📔 **데이터 리차드**입니다.
 
 
-# 📊 자기 소개
+## 📊 자기 소개
 
 - BI Engineer @ Amazon Fintech
 - Data Engineer @ Amazon Fintech
@@ -20,7 +20,7 @@
 - 63일 후에 데이터 분석가로 당당하게 태어나는 [데분당태 63일 챌린지](https://datarichard.notion.site/DBDT-Challenge-05207df60cda465eac6cf478d3203231)를 운영합니다.
 
 
-# 📊 데이터 교육 서비스
+## 📊 데이터 교육 서비스
 
 ### 데이터 취준생을 위한 7가지 아티클
 [자세히 보기](https://datarichard.notion.site/datarichard/e60cd96575df4f62af0c05456d3a42fb?v=7a2a90dddfef4ec19cd46cb33d0d573f)
