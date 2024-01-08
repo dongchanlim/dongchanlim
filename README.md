@@ -17,7 +17,7 @@
 - 교육 회사 [datarichard](https://datarichard-official.carrd.com/)를 운영합니다. 
 - 클래스101에서 [데이터 추출 & 시각화 클래스](https://class101.net/ko/products/yse7gv1a8lmuLKa9v9sX)로 SQL 과 Power BI 를 가르칩니다.
 - 인스타로 배우는 빅데이터 페이지, [데이터 리차드](https://www.instagram.com/data_richard/)를 운영합니다.
-- 63일 후에 데이터 분석가로 당당하게 태어나는 [데분당태 온라인 챌린지][(https://datarichard.notion.site/DBDT-Challenge-05207df60cda465eac6cf478d3203231](https://dbdt-challenge.typedream.app/dbdt-challenge))를 운영합니다.
+- 63일 후에 데이터 분석가로 당당하게 태어나는 [데분당태 온라인 챌린지](https://dbdt-challenge.typedream.app/dbdt-challenge)를 운영합니다.
 
 
 ## 📊 데이터 교육 서비스
