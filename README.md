@@ -3,8 +3,8 @@
 데이터를 더욱 재미있고 가치있게 알려주는 교육 크리에이터 📔 **데이터 리차드**입니다.
 
 
-<a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/datarichard/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin"/></a>
-<a target="_blank" href="https://www.instagram.com/https://www.instagram.com/data_richard/" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram"/></a>
+<a target="_blank" href="https://www.linkedin.com/in/datarichard/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin"/></a>
+<a target="_blank" href="https://www.instagram.com/data_richard/" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram"/></a>
 
         
 
