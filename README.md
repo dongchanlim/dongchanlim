@@ -10,10 +10,11 @@
 
 ## 📊 자기 소개
 
-- BI Engineer @ Amazon Fintech
-- Data Engineer @ Amazon Fintech
-- Data Analyst @ offerpad
-- Data Analyst @ BYU-pathway worldwide
+- Data Analyst @ Layton Construction (2024)
+- BI Engineer @ Amazon Fintech (2023)
+- Data Engineer @ Amazon Fintech (2022)
+- Data Analyst @ offerpad (2022)
+- Data Analyst @ BYU-pathway worldwide (2021)
 
 3년 간 다양한 데이터 직무를 경험하고 현재 창업 중입니다.
 **심리학과 출신**에서 **데이터 크리에이터**가 되기까지 경험한 노하우와 스킬을 바탕으로 
