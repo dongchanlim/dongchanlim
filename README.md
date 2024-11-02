@@ -36,7 +36,7 @@
 [자세히 보기](https://dongchanlim.github.io/github-portfolio/)
 
 ### 데분당태 챌린지
-[자세히 보기](https://coda.io/@datarichard/datarichard/-6))
+[자세히 보기](https://coda.io/@datarichard/datarichard/-6)
 
 
 ## 📊 기술 스택
