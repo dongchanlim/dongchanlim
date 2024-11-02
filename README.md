@@ -30,13 +30,13 @@
 ## 📊 데이터 교육 서비스
 
 ### 데이터 취준생을 위한 7가지 아티클
-[자세히 보기](https://datarichard.notion.site/datarichard/e60cd96575df4f62af0c05456d3a42fb?v=7a2a90dddfef4ec19cd46cb33d0d573f)
+[자세히 보기](https://coda.io/@datarichard/datarichard/datarichard-3)
 
 ### 데이터 포트폴리오 만들기
-[자세히 보기](https://pfdatarichard.carrd.co/)
+[자세히 보기](https://dongchanlim.github.io/github-portfolio/)
 
 ### 데분당태 챌린지
-[자세히 보기](https://debundante.carrd.co/)
+[자세히 보기](https://coda.io/@datarichard/datarichard/-6))
 
 
 ## 📊 기술 스택
