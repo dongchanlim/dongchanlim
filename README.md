@@ -10,7 +10,7 @@
 
 ## 📊 자기 소개
 
-- Founder @ datarichard
+- Founder @ datarichard (2022 ~)
 - Data Analyst @ Layton Construction (2024)
 - BI Engineer @ Amazon Fintech (2023)
 - Data Engineer @ Amazon Fintech (2022)
