@@ -18,8 +18,8 @@
 - Data Analyst @ BYU-pathway worldwide (2021)
 
 3년 간 다양한 데이터 직무를 경험하고 현재 창업 중입니다.
-**심리학과 출신**에서 **데이터 크리에이터**가 되기까지 경험한 노하우와 스킬을 바탕으로 
-**데이터 교육 강의 + 멘토링** 유료 서비스를 제공합니다.
+**심리학과 출신**에서 **크리에이터**가 되기까지 경험한 노하우와 스킬을 바탕으로 
+**DATA/AI 온라인 교육 + 학습 프로그램** 서비스를 제공합니다.
 
 - 교육 회사 [datarichard](https://datarichard.simple.ink/)를 운영합니다. 
 - 클래스101에서 [데이터 추출 & 시각화 클래스](https://class101.net/ko/products/yse7gv1a8lmuLKa9v9sX)로 SQL 과 Power BI 강의를 만들었습니다.
