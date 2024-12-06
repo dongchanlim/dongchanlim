@@ -23,10 +23,13 @@
 - 데이터 분석가로 당당하게 태어나는 [데분당태 온라인 챌린지](https://dbdt-challenge.typedream.app/dbdt-challenge), 데이터 블로그 챌린지 [데블챌](https://dbdt-challenge.typedream.app/dbt-challenge)을 운영합니다.
 
 
-## 📊 데이터 교육 서비스
+## 📊 교육 서비스
 
 ### 데이터 취준생을 위한 7가지 아티클
 [자세히 보기](https://coda.io/@datarichard/datarichard/datarichard-3)
+
+### 데이터 이력서 템플릿
+[자세히 보기](https://www.notion.com/templates/datarichard-resume)
 
 ### 데이터 포트폴리오 만들기
 [자세히 보기](https://dongchanlim.github.io/github-portfolio/)
