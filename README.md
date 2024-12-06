@@ -1,6 +1,6 @@
 # 👋 안녕하세요.
 
-더욱 재미있고 가치있게 DATA/AI를 배우는 📔 **데이터 리차드**입니다.
+더욱 재미있고 가치있게 DATA/AI를 배우는 **데이터 리차드**입니다.
 
 
 <a target="_blank" href="https://www.linkedin.com/in/datarichard/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin"/></a>
@@ -18,7 +18,7 @@
 - Data Analyst @ BYU-pathway worldwide (2021)
 
 3년 간 다양한 데이터 직무를 경험하고 현재 창업 중입니다.
-**비전공자 출신**에서 ** 분석가/엔지니어**가 되기까지 경험한 노하우와 스킬을 바탕으로 
+**비전공자 출신**에서 ** 분석가**/**엔지니어**가 되기까지 경험한 노하우와 스킬을 바탕으로 
 **DATA/AI 온라인 교육 + 학습 프로그램** 서비스를 제공합니다.
 
 - 교육 회사 [datarichard](https://datarichard.simple.ink/)를 운영합니다. 
