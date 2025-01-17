@@ -1,6 +1,7 @@
 # 👋 Hello! 안녕하세요. 
 
-I Write, Make and Share about 
+I Write, Make and Share about
+
 Data Science | Artificial Intelligence | Business Analytics | Data Engineering | Career Development things
 
 더욱 재미있고 가치있게 DATA/AI를 배우도록 돕는 **데이터 리차드**입니다.
