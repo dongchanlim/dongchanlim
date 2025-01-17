@@ -19,7 +19,7 @@ Data Science | Artificial Intelligence | Business Analytics | Data Engineering |
 
 3년 간 다양한 데이터 직무를 경험하고 현재 창업 중입니다.
 **비전공자 출신**에서 **분석가**/**엔지니어**가 되기까지 경험한 노하우와 스킬을 바탕으로 
-**DATA/AI 온라인 교육 + 학습 프로그램** 서비스를 제공합니다.
+**DATA/AI 온라인 정기 학습 프로그램** 을 만들고 있습니다.
 
 - Company Website: https://datarichard.simple.ink/
 - Online Course: https://class101.net/ko/products/yse7gv1a8lmuLKa9v9sX
