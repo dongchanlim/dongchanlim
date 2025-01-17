@@ -8,7 +8,7 @@ Data Science | Artificial Intelligence | Business Analytics | Data Engineering |
 
         
 
-## 📊 자기 소개
+## 📊 About Me 자기 소개
 
 - Founder @ datarichard (2022 ~)
 - Data Analyst @ Layton Construction (2024)
@@ -32,7 +32,7 @@ Data Science | Artificial Intelligence | Business Analytics | Data Engineering |
 - 데이터 분석가로 당당하게 태어나는 [데분당태 온라인 챌린지](https://dbdt-challenge.typedream.app/dbdt-challenge), 데이터 블로그 챌린지 [데블챌](https://dbdt-challenge.typedream.app/dbt-challenge)을 운영합니다.
 
 
-## 📊 교육 서비스
+## 📊 Education 교육
 
 ### 데이터 취준생을 위한 7가지 아티클
 [자세히 보기](https://coda.io/@datarichard/datarichard/datarichard-3)
