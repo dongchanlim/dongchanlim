@@ -1,6 +1,7 @@
-# 👋 안녕하세요.
+# 👋 Hello! 안녕하세요. 
 
-더욱 재미있고 가치있게 DATA/AI를 배우는 **데이터 리차드**입니다.
+I Write, Make and Share about Data Science | Artificial Intelligence | Business Analytics | Data Engineering | Career Development things
+더욱 재미있고 가치있게 DATA/AI를 배우도록 돕는 **데이터 리차드**입니다.
 
         
 
@@ -16,6 +17,11 @@
 3년 간 다양한 데이터 직무를 경험하고 현재 창업 중입니다.
 **비전공자 출신**에서 **분석가**/**엔지니어**가 되기까지 경험한 노하우와 스킬을 바탕으로 
 **DATA/AI 온라인 교육 + 학습 프로그램** 서비스를 제공합니다.
+
+- Company Website: https://datarichard.simple.ink/
+- Online Course: https://class101.net/ko/products/yse7gv1a8lmuLKa9v9sX
+- Actively post at [Linkedin](https://www.linkedin.com/in/datarichard/), [Careerly](https://careerly.co.kr/profiles/494354?utm_campaign=self-share), [Threads](https://www.threads.net/@data_richard)
+
 
 - 교육 회사 [datarichard](https://datarichard.simple.ink/)를 운영합니다. 
 - 클래스101에서 [데이터 추출 & 시각화 클래스](https://class101.net/ko/products/yse7gv1a8lmuLKa9v9sX)로 SQL 과 Power BI 강의를 만들었습니다.
