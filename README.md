@@ -1,14 +1,16 @@
-# 👋 Hello! 안녕하세요. 
+# 👋 Hello! 
 
 I Write, Make and Share about
 
 **Data Science | Artificial Intelligence | Business Analytics | Data Engineering | Career Development things**
 
+# 안녕하세요. 
+
 더욱 재미있고 가치있게 DATA/AI를 배우도록 돕는 **데이터 리차드**입니다.
 
         
 
-## 📊 About Me 자기 소개
+## 📊 About Me
 
 - Founder @ datarichard (2022 ~)
 - Data Analyst @ Layton Construction (2024)
@@ -17,15 +19,16 @@ I Write, Make and Share about
 - Data Analyst @ offerpad (2022)
 - Data Analyst @ BYU-pathway worldwide (2021)
 
-3년 간 다양한 데이터 직무를 경험하고 현재 창업 중입니다.
-
-**비전공자 출신**에서 **분석가**/**엔지니어**가 되기까지 경험한 노하우와 스킬을 바탕으로 
-**DATA/AI 온라인 정기 학습 프로그램** 을 만들고 있습니다.
-
 - Company Website: https://datarichard.simple.ink/
 - Online Course: https://class101.net/ko/products/yse7gv1a8lmuLKa9v9sX
 - Actively post at [Linkedin](https://www.linkedin.com/in/datarichard/), [Careerly](https://careerly.co.kr/profiles/494354?utm_campaign=self-share), [Threads](https://www.threads.net/@data_richard)
 
+##  자기 소개
+
+3년 간 다양한 데이터 직무를 경험하고 현재 창업 중입니다.
+
+**비전공자 출신**에서 **분석가**/**엔지니어**가 되기까지 경험한 노하우와 스킬을 바탕으로 
+**DATA/AI 온라인 정기 학습 프로그램** 을 만들고 있습니다.
 
 - 교육 회사 [datarichard](https://datarichard.simple.ink/)를 운영합니다. 
 - 클래스101에서 [데이터 추출 & 시각화 클래스](https://class101.net/ko/products/yse7gv1a8lmuLKa9v9sX)로 SQL 과 Power BI 강의를 만들었습니다.
@@ -33,7 +36,7 @@ I Write, Make and Share about
 - 데이터 분석가로 당당하게 태어나는 [데분당태 온라인 챌린지](https://dbdt-challenge.typedream.app/dbdt-challenge), 데이터 블로그 챌린지 [데블챌](https://dbdt-challenge.typedream.app/dbt-challenge)을 운영합니다.
 
 
-## 📊 Education 교육
+## 📊 교육
 
 ### 데이터 취준생을 위한 7가지 아티클
 [자세히 보기](https://coda.io/@datarichard/datarichard/datarichard-3)
