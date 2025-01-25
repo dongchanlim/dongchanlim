@@ -4,10 +4,6 @@ I Write, Make and Share about
 
 **Data Science | Artificial Intelligence | Business Analytics | Data Engineering | Career Development things**
 
-# 안녕하세요. 
-
-더욱 재미있고 가치있게 DATA/AI를 배우도록 돕는 **데이터 리차드**입니다.
-
         
 
 ## 📊 About Me
@@ -22,6 +18,10 @@ I Write, Make and Share about
 - Company Website: https://datarichard.simple.ink/
 - Online Course: https://class101.net/ko/products/yse7gv1a8lmuLKa9v9sX
 - Actively post at [Linkedin](https://www.linkedin.com/in/datarichard/), [Careerly](https://careerly.co.kr/profiles/494354?utm_campaign=self-share), [Threads](https://www.threads.net/@data_richard)
+
+# 안녕하세요. 
+
+더욱 재미있고 가치있게 DATA/AI를 배우도록 돕는 **데이터 리차드**입니다.
 
 ##  자기 소개
 
