@@ -2,7 +2,7 @@
 
 I Write, Make and Share about
 
-**Data Science | Artificial Intelligence | Business Analytics | Data Engineering | Career Development things**
+**Data Science | Artificial Intelligence | Business Analytics | Data Engineering | Career Development**
 
         
 
