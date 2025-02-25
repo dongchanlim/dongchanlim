@@ -28,7 +28,7 @@ I Write, Make and Share about
 3년 간 다양한 데이터 직무를 경험하고 현재 창업 중입니다.
 
 **비전공자 출신**에서 **분석가**/**엔지니어**가 되기까지 경험한 노하우와 스킬을 바탕으로 
-**DATA/AI 온라인 정기 학습 프로그램** 을 만들고 있습니다.
+**DATA/AI 온라인 기반 학습 프로그램** 을 만들고 있습니다.
 
 - 교육 회사 [datarichard](https://datarichard.simple.ink/)를 운영합니다. 
 - 클래스101에서 [데이터 추출 & 시각화 클래스](https://class101.net/ko/products/yse7gv1a8lmuLKa9v9sX)로 SQL 과 Power BI 강의를 만들었습니다.
