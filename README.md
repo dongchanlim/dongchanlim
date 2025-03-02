@@ -1,7 +1,7 @@
 # 👋 Hello! 
 
+I'm Richard :)
 I Write, Make and Share about
-
 **Data Science | Artificial Intelligence | Business Analytics | Data Engineering | Career Development**
 
         
