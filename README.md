@@ -7,7 +7,7 @@ I Write, Make and Share about
 
         
 
-##  🌎About Me
+##  🌎Experience
 
 - **Founder** @ datarichard (2022 ~)
 - **Data Analyst** @ Layton Construction (2024)
