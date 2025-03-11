@@ -9,12 +9,12 @@ I Write, Make and Share about
 
 ##  🌎About Me
 
-- Founder @ datarichard (2022 ~)
-- Data Analyst @ Layton Construction (2024)
-- BI Engineer @ Amazon Fintech (2023)
-- Data Engineer @ Amazon Fintech (2022)
-- Data Analyst @ offerpad (2022)
-- Data Analyst @ BYU-pathway worldwide (2021)
+- **Founder** @ datarichard (2022 ~)
+- **Data Analyst** @ Layton Construction (2024)
+- **BI Engineer** @ Amazon Fintech (2023)
+- **Data Engineer** @ Amazon Fintech (2022)
+- **Data Analyst** @ offerpad (2022)
+- **Data Analyst** @ BYU-pathway worldwide (2021)
 
 - Company Website: https://datarichard.simple.ink/
 - Online Course: https://class101.net/en/products/yse7gv1a8lmuLKa9v9sX
