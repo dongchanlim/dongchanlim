@@ -1,6 +1,6 @@
 # 👋 Hello! 
 
-Nice to meet you. I'm Richard :)
+Nice to meet you. My name is Richard :)
 
 I Write, Make and Share about
 **Data Science | Artificial Intelligence | Business Analytics | Data Engineering | Career Development**
