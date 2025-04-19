@@ -16,6 +16,8 @@ I Write, Make and Share about
 - **Data Analyst** @ offerpad (2022)
 - **Data Analyst** @ BYU-pathway worldwide (2021)
 
+## 🔗Link
+
 - **Company Website:** ~https://datarichard.simple.ink/~ https://datarichard.super.site/
 - **Online Course:** https://class101.net/en/products/yse7gv1a8lmuLKa9v9sX
 - **Actively posting at** [Linkedin](https://www.linkedin.com/in/datarichard/), [Careerly](https://careerly.co.kr/profiles/494354?utm_campaign=self-share), [Threads](https://www.threads.net/@data_richard)
