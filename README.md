@@ -39,7 +39,7 @@ DATA/AI를 더욱 재미있고 가치있게 배울수 있는 교육을 만드는
 - 데이터 분석가로 당당하게 태어나는 [데분당태 온라인 챌린지](https://dbdt-challenge.typedream.app/dbdt-challenge), 데이터 블로그 챌린지 [데블챌](https://dbdt-challenge.typedream.app/dbt-challenge)을 운영합니다.
 
 
-## 📊 만든 교육 프로그램
+## 🔗만든 교육 프로그램 링크
 
 ### 데이터 취준생을 위한 7가지 아티클
 [자세히 보기](https://coda.io/@datarichard/datarichard/datarichard-3)
