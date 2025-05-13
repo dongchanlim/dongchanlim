@@ -22,11 +22,11 @@ I Write, Make and Share about
 - **Online Course:** https://class101.net/en/products/yse7gv1a8lmuLKa9v9sX
 - **Actively posting at** [Linkedin](https://www.linkedin.com/in/datarichard/), [Careerly](https://careerly.co.kr/profiles/494354?utm_campaign=self-share), [Threads](https://www.threads.net/@data_richard)
 
-# 🇰🇷 안녕하세요. 
+# 👋안녕하세요. 
 
 DATA/AI를 더욱 재미있고 가치있게 배울수 있는 교육을 만드는 **데이터 리차드**입니다.
 
-##  👋자기 소개
+## 🇰🇷자기 소개
 
 3년 간 다양한 데이터 직무를 경험하고 현재 창업 중입니다.
 
