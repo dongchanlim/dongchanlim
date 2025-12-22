@@ -11,6 +11,7 @@ I Write, Make and Share about
 ##  🌎Experience
 
 - **Founder** @ datarichard (2022 ~)
+- **Business System Engineer** @ Hyundai Capital America (2025) 
 - **Data Analyst** @ Layton Construction (2024)
 - **BI Engineer** @ Amazon Fintech (2023)
 - **Data Engineer** @ Amazon Fintech (2022)
