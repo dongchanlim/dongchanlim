@@ -23,7 +23,7 @@ I Write, Make and Share about
 - **Founding Company Website:** ~https://datarichard.simple.ink/~ https://datarichard.super.site/
 - **Online Course:**
   - [datarichard와 배우는 대시보드 만들기](https://class101.net/ko/products/61a50aa07543740015dee9e7)
-  - [AI 시대 일잘러를 만드는 비즈니스 데이터 분석] (https://fastcampus.co.kr/data_online_richard)
+  - [AI 시대 일잘러를 만드는 비즈니스 데이터 분석](https://fastcampus.co.kr/data_online_richard)
 - **Actively posting at** [Linkedin](https://www.linkedin.com/in/datarichard/), [Careerly](https://careerly.co.kr/profiles/494354?utm_campaign=self-share), [Threads](https://www.threads.net/@data_richard)
 
 # 👋안녕하세요. 
